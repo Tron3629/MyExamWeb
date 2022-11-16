@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>This is SE Lab Internal 1 exam</h2>
 </body>
 </html>
